@@ -1,0 +1,30 @@
+.button-list {
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.activeEl {
+  border: none;
+  color: white;
+  border-radius: 40px;
+  background-color: #db1c48;
+  font-size: 12px;
+  margin: auto;
+  padding-top: 7px;
+  outline: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.notActive {
+  background-color: transparent;
+  color: #db1c48;
+  border: 2px solid #db1c48;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 40px;
+}
